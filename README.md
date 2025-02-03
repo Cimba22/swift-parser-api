@@ -27,10 +27,14 @@ Before running the project, ensure the following are installed on your system:
 
 Clone the project repository to your local machine:
 
-```bash
-git clone https://github.com/your-username/swift-api.git
-cd swift-api
-```
+
+`[git clone https://github.com/your-username/swift-api.git]`
+or 
+`(https://github.com/Cimba22/swift-parser-api.git)`
+
+
+```cd swift-api```
+
 
 ### 2. Configure Database Connection
  - Use the connection from an existing database image in the `docker-compose` file, or
